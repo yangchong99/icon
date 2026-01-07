@@ -1,0 +1,54 @@
+{
+  "name": "Panda𝕏图标集",
+  "description": "自用图标@yangchong99,日期20260107",
+  "icons": [
+    {
+      "name": "ai",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ai.png"
+    },
+    {
+      "name": "baiduwangpan",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/baiduwangpan.png"
+    },
+    {
+      "name": "box",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/box.png"
+    },
+    {
+      "name": "caiyuntianqi",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/caiyuntianqi.png"
+    },
+    {
+      "name": "douban",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/douban.png"
+    },
+    {
+      "name": "gaode",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/gaode.png"
+    },
+    {
+      "name": "googlevoice",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/googlevoice.png"
+    },
+    {
+      "name": "search",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/search.png"
+    },
+    {
+      "name": "xianyu",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/xianyu.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/xiaohongshu.png"
+    },
+    {
+      "name": "ximalaya",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ximalaya.png"
+    },
+    {
+      "name": "zhihu",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/zhihu.png"
+    }
+  ]
+}
