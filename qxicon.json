@@ -1,7 +1,11 @@
 {
   "name": "Panda𝕏图标集",
-  "description": "自用图标库@yangchong99, 日期202601081456",
+  "description": "自用图标库@yangchong99, 日期202601081542",
   "icons": [
+    {
+      "name": "12306",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/12306.png"
+    },
     {
       "name": "AliYunDrive",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/AliYunDrive.png"
@@ -9,6 +13,10 @@
     {
       "name": "Alipay",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/Alipay.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/Apple.png"
     },
     {
       "name": "BoxJs",
@@ -27,8 +35,20 @@
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/DiDi.png"
     },
     {
+      "name": "NodeSeek",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/NodeSeek.png"
+    },
+    {
+      "name": "QuantumultX-03",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/QuantumultX-03.png"
+    },
+    {
       "name": "Script-Hub",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/Script-Hub.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/X.png"
     },
     {
       "name": "ai",
@@ -85,6 +105,10 @@
     {
       "name": "drafts",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/drafts.png"
+    },
+    {
+      "name": "dragonfly",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/dragonfly.png"
     },
     {
       "name": "ezviz",
@@ -155,6 +179,10 @@
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/swiftgram.png"
     },
     {
+      "name": "taobao",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/taobao.png"
+    },
+    {
       "name": "tuhu",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/tuhu.png"
     },
@@ -165,6 +193,10 @@
     {
       "name": "vvebo",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/vvebo.png"
+    },
+    {
+      "name": "wechat",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/wechat.png"
     },
     {
       "name": "xianyu",
