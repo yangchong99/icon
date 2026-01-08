@@ -1,38 +1,170 @@
 {
   "name": "Panda𝕏图标集",
-  "description": "自用图标@yangchong99，日期20260107",
+  "description": "自用图标库@yangchong99, 日期202601081456",
   "icons": [
+    {
+      "name": "AliYunDrive",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/AliYunDrive.png"
+    },
+    {
+      "name": "Alipay",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/Alipay.png"
+    },
+    {
+      "name": "BoxJs",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/BoxJs.png"
+    },
+    {
+      "name": "ChinaBroadnet",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ChinaBroadnet.png"
+    },
+    {
+      "name": "ChinaMobile",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ChinaMobile.png"
+    },
+    {
+      "name": "DiDi",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/DiDi.png"
+    },
+    {
+      "name": "Script-Hub",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/Script-Hub.png"
+    },
     {
       "name": "ai",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ai.png"
+    },
+    {
+      "name": "amap",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/amap.png"
+    },
+    {
+      "name": "applesiri",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/applesiri.png"
+    },
+    {
+      "name": "appleweather",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/appleweather.png"
     },
     {
       "name": "baiduwangpan",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/baiduwangpan.png"
     },
     {
+      "name": "bdyy",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/bdyy.png"
+    },
+    {
       "name": "box",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/box.png"
+    },
+    {
+      "name": "cainiao",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/cainiao.png"
+    },
+    {
+      "name": "caiyun",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/caiyun.png"
     },
     {
       "name": "caiyuntianqi",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/caiyuntianqi.png"
     },
     {
+      "name": "chinaunicom",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/chinaunicom.png"
+    },
+    {
+      "name": "coolapk",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/coolapk.png"
+    },
+    {
       "name": "douban",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/douban.png"
+    },
+    {
+      "name": "drafts",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/drafts.png"
+    },
+    {
+      "name": "ezviz",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ezviz.png"
+    },
+    {
+      "name": "fenbi",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/fenbi.png"
     },
     {
       "name": "gaode",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/gaode.png"
     },
     {
+      "name": "gkld",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/gkld.png"
+    },
+    {
       "name": "googlevoice",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/googlevoice.png"
     },
     {
+      "name": "jingdong",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/jingdong.png"
+    },
+    {
+      "name": "keep",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/keep.png"
+    },
+    {
+      "name": "lsnl",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/lsnl.png"
+    },
+    {
+      "name": "pdd",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/pdd.png"
+    },
+    {
+      "name": "perplexity",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/perplexity.png"
+    },
+    {
+      "name": "qq",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/qq.png"
+    },
+    {
+      "name": "qqyy",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/qqyy.png"
+    },
+    {
+      "name": "rrsp",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/rrsp.png"
+    },
+    {
       "name": "search",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/search.png"
+    },
+    {
+      "name": "smzdm",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/smzdm.png"
+    },
+    {
+      "name": "substore",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/substore.png"
+    },
+    {
+      "name": "swiftgram",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/swiftgram.png"
+    },
+    {
+      "name": "tuhu",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/tuhu.png"
+    },
+    {
+      "name": "v2ex",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/v2ex.png"
+    },
+    {
+      "name": "vvebo",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/vvebo.png"
     },
     {
       "name": "xianyu",
@@ -49,6 +181,10 @@
     {
       "name": "zhihu",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/zhihu.png"
+    },
+    {
+      "name": "zhipu",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/zhipu.png"
     }
   ]
 }
