@@ -1,6 +1,6 @@
 {
   "name": "Panda𝕏图标集",
-  "description": "自用图标库@yangchong99, 日期202605140942",
+  "description": "自用图标库@yangchong99, 日期202605140949",
   "icons": [
     {
       "name": "12306",
@@ -139,6 +139,10 @@
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/keep.png"
     },
     {
+      "name": "kuan",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/kuan.png"
+    },
+    {
       "name": "lsnl",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/lsnl.png"
     },
@@ -157,6 +161,10 @@
     {
       "name": "qqyy",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/qqyy.png"
+    },
+    {
+      "name": "reddit",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/reddit.png"
     },
     {
       "name": "reven",
@@ -185,6 +193,10 @@
     {
       "name": "taobao",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/taobao.png"
+    },
+    {
+      "name": "trakt",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/trakt.png"
     },
     {
       "name": "tuhu",
