@@ -1,6 +1,6 @@
 {
   "name": "Panda𝕏图标集",
-  "description": "自用图标库@yangchong99, 日期202601081806",
+  "description": "自用图标库@yangchong99, 日期202605140942",
   "icons": [
     {
       "name": "12306",
@@ -159,6 +159,10 @@
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/qqyy.png"
     },
     {
+      "name": "reven",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/reven.png"
+    },
+    {
       "name": "rrsp",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/rrsp.png"
     },
@@ -197,6 +201,10 @@
     {
       "name": "wechat",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/wechat.png"
+    },
+    {
+      "name": "xiachufang",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/xiachufang.png"
     },
     {
       "name": "xianyu",
