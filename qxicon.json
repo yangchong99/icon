@@ -1,6 +1,6 @@
 {
   "name": "Panda𝕏图标集",
-  "description": "自用图标库@yangchong99, 日期202605140949",
+  "description": "自用图标库@yangchong99, 日期202606010405",
   "icons": [
     {
       "name": "12306",
@@ -229,6 +229,10 @@
     {
       "name": "ximalaya",
       "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ximalaya.png"
+    },
+    {
+      "name": "ycoo",
+      "url": "https://raw.githubusercontent.com/yangchong99/icon/main/qx/ycoo.png"
     },
     {
       "name": "zhihu",
